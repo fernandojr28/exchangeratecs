@@ -8,11 +8,9 @@ function getRates() {
     const purchase_price = generateRate()
     const sale_price = (purchase_price + 0.0400)
     return {
-        data: {
-            status: 200,
-            purchase_price: purchase_price.toFixed(4),
-            sale_price: sale_price.toFixed(4),
-        }
+        status: 200,
+        purchase_price: purchase_price.toFixed(4),
+        sale_price: sale_price.toFixed(4),
     }
 }
 

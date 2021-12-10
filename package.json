@@ -1,0 +1,23 @@
+{
+    "name": "rantiy",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://fernando280897@bitbucket.org/davidquispe/rartiy.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://bitbucket.org/davidquispe/rartiy/issues"
+    },
+    "homepage": "https://bitbucket.org/davidquispe/rartiy#readme",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
